@@ -2,12 +2,9 @@
 
 🎯 **Desarrollador Full Stack en búsqueda activa de oportunidades**  
 📍 Pamplona, Navarra | 📞 (+34) 661 437 136 | 📩 juan-borras@hotmail.com  
-🔗 [Portfolio Web](https://jborrsad.github.io/portfolio/) | 🔹 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239) | 🔴 [GitHub](https://github.com/JBorrsad)
-
----
+🔗 [Portfolio Web](https://jborrsad.github.io/portfolio/) | 🔵 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239) | 🔴 [GitHub](https://github.com/JBorrsad)
 
 ## 🧑‍💻 Sobre mí
-
 ```markdown
 Desarrollador Full Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), 
 con experiencia en diseño de infraestructuras y desarrollo backend/frontend.  
@@ -19,10 +16,7 @@ He desarrollado proyectos tanto con microservicios como con monolitos bien estru
 🚀 Siempre en evolución, buscando nuevas herramientas y mejores formas de programar.
 ```
 
----
-
 ## 🛠️ Stack y tecnologías
-
 ```markdown
 🔹 Lenguajes  
 Java · C# · JavaScript · TypeScript · PHP · Python · SQL · HTML · CSS · MATLAB
@@ -40,20 +34,14 @@ IntelliJ IDEA · VS Code · Cursor · Docker · Postman
 Clean Architecture · SOLID · DDD · Microservicios · Monolitos mantenibles
 ```
 
----
-
 ## 🧪 Experiencia
-
 ```markdown
 Tracasa Instrumental – Pamplona  
 Marzo 2025 – Junio 2025  
 Desarrollo de infraestructura y diseño de software (contrato de prácticas)
 ```
 
----
-
 ## 🎓 Formación Académica
-
 ```markdown
 🎓 Grado Superior en DAM – C.I. María Ana Sanz (2023–2025)
 
@@ -62,10 +50,7 @@ Estudios universitarios previos:
 - Odontología (UAX) – 200 ECTS
 ```
 
----
-
 ## 🌍 Idiomas
-
 ```markdown
 🇫🇷 Francés (C1)  
 Fluidez desde los 3 años en conversación, redacción y comprensión.
@@ -74,33 +59,25 @@ Fluidez desde los 3 años en conversación, redacción y comprensión.
 Muy buena competencia oral y escrita en contextos profesionales.
 ```
 
----
-
 ## 🚀 Aptitudes destacadas
-
 ```markdown
-👉 Adaptación rápida a nuevos entornos y herramientas  
-👉 Mentalidad proactiva y resolutiva  
-👉 Compromiso con la calidad y mejora continua  
-👉 Actitud positiva y trabajo colaborativo
+✅ Adaptación rápida a nuevos entornos y herramientas  
+✅ Mentalidad proactiva y resolutiva  
+✅ Compromiso con la calidad y mejora continua  
+✅ Actitud positiva y trabajo colaborativo
 ```
 
----
-
 ## 📢 ¿Buscas un perfil con visión técnica y ganas de crecer?
-
 ```markdown
 Estoy abierto a oportunidades en desarrollo backend, frontend o full stack.  
 Si quieres trabajar con alguien que prioriza la calidad del código y que está en constante evolución, ¡hablemos!
 ```
 
----
-
 ## 📬 Contacto directo
-
 ```markdown
 📧 juan-borras@hotmail.com  
-📞 (+34) 661 437 136  
-🔹 LinkedIn: https://www.linkedin.com/in/juan-borrás-sada-a690b0239  
+📱 (+34) 661 437 136  
+🔵 LinkedIn: https://www.linkedin.com/in/juan-borrás-sada-a690b0239  
 🔴 GitHub: https://github.com/JBorrsad  
 🌐 Portfolio Web: https://jborrsad.github.io/portfolio/
+```
