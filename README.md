@@ -2,7 +2,7 @@
 
 🎯 **Desarrollador Full Stack en búsqueda activa de oportunidades**  
 📍 Pamplona, Navarra | 📞 (+34) 661 437 136 | 📩 juan-borras@hotmail.com  
-🔗 [Portfolio Web](https://tu-portfolio.com) | 🔵 [LinkedIn](https://www.linkedin.com/in/juanborras) | 🔴 [GitHub](https://github.com/juanborras)
+🔗 [Portfolio Web](https://jborrsad.github.io/portfolio/) | 🔵 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239) | 🔴 [GitHub](https://github.com/JBorrsad)
 
 ---
 
@@ -51,7 +51,7 @@ _Marzo 2025 – Junio 2025_
 
 ### 🌍 Idiomas
 
-- 🇫🇷 **Francés (C1)** – Fluidez nativa desde los 3 años
+- 🇫🇷 **Francés (C1)** – Fluidez nativa desde los 3 años  
 - 🇬🇧 **Inglés (B2)** – Excelente competencia oral y escrita en contextos profesionales
 
 ---
@@ -74,8 +74,8 @@ Estoy abierto a oportunidades en desarrollo backend, frontend o full stack. Si q
 📬 **Contacto directo:**  
 📧 juan-borras@hotmail.com  
 📱 (+34) 661 437 136  
-🔗 [LinkedIn](https://www.linkedin.com/in/juanborras)  
-🔴 [GitHub](https://github.com/juanborras)  
-🌐 [Portfolio Web](https://tu-portfolio.com)
+🔵 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239)  
+🔴 [GitHub](https://github.com/JBorrsad)  
+🌐 [Portfolio Web](https://jborrsad.github.io/portfolio/)
 
 ---
