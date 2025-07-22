@@ -2,80 +2,105 @@
 
 🎯 **Desarrollador Full Stack en búsqueda activa de oportunidades**  
 📍 Pamplona, Navarra | 📞 (+34) 661 437 136 | 📩 juan-borras@hotmail.com  
-🔗 [Portfolio Web](https://jborrsad.github.io/portfolio/) | 🔵 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239) | 🔴 [GitHub](https://github.com/JBorrsad)
+🔗 [Portfolio Web](https://jborrsad.github.io/portfolio/) | 🔹 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239) | 🔴 [GitHub](https://github.com/JBorrsad)
 
 ---
 
-### 🧑‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy desarrollador Full Stack con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con experiencia en diseño de infraestructuras y desarrollo backend/frontend. Me apasiona el desarrollo limpio, las arquitecturas bien definidas y el código mantenible.
+```markdown
+Desarrollador Full Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), 
+con experiencia en diseño de infraestructuras y desarrollo backend/frontend.  
+Me apasiona el desarrollo limpio, las arquitecturas bien definidas y el código mantenible.
 
-Trabajo con enfoque **Clean Code**, aplicando los principios **SOLID**, y me interesa especialmente el **Domain-Driven Design**. He desarrollado proyectos basados en **microservicios** y **monolitos bien estructurados**. Siempre estoy explorando nuevas tecnologías y formas de mejorar como profesional.
+Trabajo con enfoque Clean Code, aplicando principios SOLID y me interesa especialmente el Domain-Driven Design.  
+He desarrollado proyectos tanto con microservicios como con monolitos bien estructurados.
 
----
-
-### 🛠️ Stack y tecnologías que domino
-
-#### 🔹 Lenguajes
-- Java · C# · JavaScript · TypeScript · PHP · Python · SQL · HTML · CSS · MATLAB
-
-#### 🔹 Frameworks & Librerías
-- **Backend:** Spring Boot · Hibernate · .NET Framework · Entity Framework  
-- **Frontend:** React · React Native · Angular · Astro  
-- **Mobile:** Android Studio · React Native
-
-#### 🔹 Dev Tools & Entornos
-- IntelliJ IDEA · Visual Studio Code · Cursor · Docker · Postman
-
-#### 🔹 Arquitectura
-- Clean Architecture · SOLID · DDD · Microservicios · Monolitos mantenibles
+🚀 Siempre en evolución, buscando nuevas herramientas y mejores formas de programar.
+```
 
 ---
 
-### 🧪 Experiencia
+## 🛠️ Stack y tecnologías
 
-**Tracasa Instrumental** – *Pamplona*  
-_Marzo 2025 – Junio 2025_  
-`Desarrollo de infraestructura y diseño de software (prácticas profesionales)`
+```markdown
+🔹 Lenguajes  
+Java · C# · JavaScript · TypeScript · PHP · Python · SQL · HTML · CSS · MATLAB
 
----
+🔹 Backend  
+Spring Boot · Hibernate · .NET Framework · Entity Framework
 
-### 🎓 Formación Académica
+🔹 Frontend & Mobile  
+React · React Native · Angular · Astro · Android Studio
 
-- 🎓 **Grado Superior en DAM** – C.I. María Ana Sanz (2023–2025)
-- 🎓 Estudios universitarios previos:
-  - Ingeniería Biomédica (TECNUN) – 120 ECTS
-  - Odontología (UAX) – 200 ECTS
+🔹 Dev Tools  
+IntelliJ IDEA · VS Code · Cursor · Docker · Postman
 
----
-
-### 🌍 Idiomas
-
-- 🇫🇷 **Francés (C1)** – Fluidez nativa desde los 3 años  
-- 🇬🇧 **Inglés (B2)** – Excelente competencia oral y escrita en contextos profesionales
+🔹 Arquitectura  
+Clean Architecture · SOLID · DDD · Microservicios · Monolitos mantenibles
+```
 
 ---
 
-### 🚀 Aptitudes destacadas
+## 🧪 Experiencia
 
-✅ Rápida adaptación a nuevos entornos y herramientas  
-✅ Mentalidad proactiva y resolutiva  
-✅ Compromiso con la calidad y mejora continua  
-✅ Trabajo en equipo con actitud positiva y colaborativa  
-
----
-
-### 📢 ¿Buscas un perfil con visión técnica y ganas de crecer?
-
-Estoy abierto a oportunidades en desarrollo backend, frontend o full stack. Si quieres trabajar con alguien que prioriza la calidad del código y que está en constante evolución, **¡hablemos!**
+```markdown
+Tracasa Instrumental – Pamplona  
+Marzo 2025 – Junio 2025  
+Desarrollo de infraestructura y diseño de software (contrato de prácticas)
+```
 
 ---
 
-📬 **Contacto directo:**  
+## 🎓 Formación Académica
+
+```markdown
+🎓 Grado Superior en DAM – C.I. María Ana Sanz (2023–2025)
+
+Estudios universitarios previos:  
+- Ingeniería Biomédica (TECNUN) – 120 ECTS  
+- Odontología (UAX) – 200 ECTS
+```
+
+---
+
+## 🌍 Idiomas
+
+```markdown
+🇫🇷 Francés (C1)  
+Fluidez desde los 3 años en conversación, redacción y comprensión.
+
+🇬🇧 Inglés (B2)  
+Muy buena competencia oral y escrita en contextos profesionales.
+```
+
+---
+
+## 🚀 Aptitudes destacadas
+
+```markdown
+👉 Adaptación rápida a nuevos entornos y herramientas  
+👉 Mentalidad proactiva y resolutiva  
+👉 Compromiso con la calidad y mejora continua  
+👉 Actitud positiva y trabajo colaborativo
+```
+
+---
+
+## 📢 ¿Buscas un perfil con visión técnica y ganas de crecer?
+
+```markdown
+Estoy abierto a oportunidades en desarrollo backend, frontend o full stack.  
+Si quieres trabajar con alguien que prioriza la calidad del código y que está en constante evolución, ¡hablemos!
+```
+
+---
+
+## 📬 Contacto directo
+
+```markdown
 📧 juan-borras@hotmail.com  
-📱 (+34) 661 437 136  
-🔵 [LinkedIn](https://www.linkedin.com/in/juan-borrás-sada-a690b0239)  
-🔴 [GitHub](https://github.com/JBorrsad)  
-🌐 [Portfolio Web](https://jborrsad.github.io/portfolio/)
-
----
+📞 (+34) 661 437 136  
+🔹 LinkedIn: https://www.linkedin.com/in/juan-borrás-sada-a690b0239  
+🔴 GitHub: https://github.com/JBorrsad  
+🌐 Portfolio Web: https://jborrsad.github.io/portfolio/
